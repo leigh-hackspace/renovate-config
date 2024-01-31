@@ -1,0 +1,15 @@
+{
+    "packageRules": [
+        {
+            "matchPackageNames": [
+                "mkdocs-material",
+                "mkdocs-table-reader-plugin"
+            ],
+            "matchUpdateTypes": [
+                "minor",
+                "patch"
+            ],
+            "automerge": true
+        }
+    ]
+}
